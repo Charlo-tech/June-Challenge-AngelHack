@@ -1,3 +1,5 @@
+/* eslint-disable no-constant-condition */
+/* eslint-disable react/prop-types */
 import { AiFillPlayCircle } from "react-icons/ai";
 import { SiEthereum } from "react-icons/si";
 import { BsInfoCircle } from "react-icons/bs";
@@ -21,9 +23,17 @@ const Input = ({ placeholder, name, type, value, handleChange }) => (
 
 
 const Welcome = () => {
+  const { isLoading } = true;
 
-  const connectWallet = () => {
-
+  const connectWallet = async () => {
+    const { ethereum } = window;
+    if (!ethereum) {
+      alert("Get MetaMask!");
+      return;
+    }
+    const accounts = await ethereum.request({ method: "eth_requestAccounts" });
+    const account = accounts[0];
+    console.log(account);
   };
   return (
     <div className="flex w-full justify-center items-center">
@@ -72,7 +82,7 @@ const Welcome = () => {
               </div>
               <div>
                 <p className="text-white font-light text-sm">
-                  Address
+                0xCF...6A90
                 </p>
                 <p className="text-white font-semibold text-lg mt-1">
                   Ethereum
@@ -88,7 +98,7 @@ const Welcome = () => {
 
             <div className="h-[1px] w-full bg-gray-400 my-2" />
 
-            {false
+            {isLoading
               ? <Loader />
               : (
                 <button
