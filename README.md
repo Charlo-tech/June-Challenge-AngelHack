@@ -11,21 +11,14 @@ The inspiration for the app crops up from the need to solve the problem that has
 
 ## Screenshots and Videos
 ### Screenshots
-![Screenshot (70)](https://github.com/Charlo-tech/June-Challenge-AngelHack/assets/57678615/f3ff15a4-7a6d-44fa-938b-ff3219a24bfc)
-
-![Screenshot (65)](https://github.com/Charlo-tech/June-Challenge-AngelHack/assets/57678615/2d1ff633-efb7-4e6c-9327-633f73ef1f00)
-
-![Screenshot (66)](https://github.com/Charlo-tech/June-Challenge-AngelHack/assets/57678615/804ff7cd-8396-4cff-beb4-d3a05e86e56e)
-
-![Screenshot (67)](https://github.com/Charlo-tech/June-Challenge-AngelHack/assets/57678615/8e785fc1-4530-42b1-be8c-7e9dbe0e4843)
-
-![Screenshot (68)](https://github.com/Charlo-tech/June-Challenge-AngelHack/assets/57678615/ab0da3a7-7469-4222-9a2a-2f4f552429cc)
-![Screenshot (69)](https://github.com/Charlo-tech/June-Challenge-AngelHack/assets/57678615/dee34114-8d18-419d-b26b-01abc90b2661)
-![Screenshot (71)](https://github.com/Charlo-tech/June-Challenge-AngelHack/assets/57678615/338d2f91-4465-44fe-a4c4-b932a5ec7e90)
-![Screenshot (72)](https://github.com/Charlo-tech/June-Challenge-AngelHack/assets/57678615/8190cbf7-57ae-4f74-a294-c1db75ef05be)
-![Screenshot (73)](https://github.com/Charlo-tech/June-Challenge-AngelHack/assets/57678615/bde1d718-d84d-4fea-a880-d0b8dba44e32)
+<img src="https://github.com/Charlo-tech/June-Challenge-AngelHack/assets/57678615/f3ff15a4-7a6d-44fa-938b-ff3219a24bfc" width="30%"></img> <img src="https://github.com/Charlo-tech/June-Challenge-AngelHack/assets/57678615/2d1ff633-efb7-4e6c-9327-633f73ef1f00" width="30%"></img> <img src="https://github.com/Charlo-tech/June-Challenge-AngelHack/assets/57678615/804ff7cd-8396-4cff-beb4-d3a05e86e56e" width="30%"></img> <img src="https://github.com/Charlo-tech/June-Challenge-AngelHack/assets/57678615/8e785fc1-4530-42b1-be8c-7e9dbe0e4843" width="30%"></img> <img src="https://github.com/Charlo-tech/June-Challenge-AngelHack/assets/57678615/ab0da3a7-7469-4222-9a2a-2f4f552429cc" width="30%"></img> <img src="https://github.com/Charlo-tech/June-Challenge-AngelHack/assets/57678615/dee34114-8d18-419d-b26b-01abc90b2661" width="30%"></img> <img src="https://github.com/Charlo-tech/June-Challenge-AngelHack/assets/57678615/338d2f91-4465-44fe-a4c4-b932a5ec7e90" width="30%"></img> <img src="https://github.com/Charlo-tech/June-Challenge-AngelHack/assets/57678615/8190cbf7-57ae-4f74-a294-c1db75ef05be" width="30%"></img> <img src="https://github.com/Charlo-tech/June-Challenge-AngelHack/assets/57678615/bde1d718-d84d-4fea-a880-d0b8dba44e32" width="30%"></img> 
 
 ### Video
+
+
+
+https://github.com/Charlo-tech/June-Challenge-AngelHack/assets/57678615/d8e6955e-5439-45b7-a357-bb678c6aab55
+
 
 ## Link
 
